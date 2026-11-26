@@ -13,6 +13,7 @@ Procedure
 7.	Click on the Run option → open the Simulation Window → place the probe to obtain the output graph. 
 Circuit Diagram
 
+<img width="1907" height="972" alt="exp 7 circcuit" src="https://github.com/user-attachments/assets/97db87cb-4129-4d6d-8970-e7102fe7c851" />
 
 
 
@@ -20,6 +21,7 @@ Circuit Diagram
 The circuit is designed in LTspice as shown in the record.
 Observation / Output
 
+<img width="1907" height="941" alt="exp 7 graph" src="https://github.com/user-attachments/assets/60b779ce-5426-4032-aa61-33070effcd05" />
 
 
 The frequency-response graph is obtained from the LTspice simulation window by placing the probe at the required output node.
